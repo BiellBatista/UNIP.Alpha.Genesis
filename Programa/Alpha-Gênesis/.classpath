@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/cglib-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/ehcache-1.5.0.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/mysql-connector-java-5.1.13-bin.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="E:/Universidade-Paulista-UNIP/Aplicação-Linguagem-Programação-Orientada-Objetos/Hibernate/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14_g.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

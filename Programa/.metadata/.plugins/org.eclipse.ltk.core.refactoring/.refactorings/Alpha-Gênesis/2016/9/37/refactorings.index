@@ -1,0 +1,21 @@
+1473019700566	Encapsulate field 'pontos'
+1473026110132	Delete element
+1473026336647	Delete element
+1473028204302	Delete element
+1473028207426	Delete element
+1473028210758	Delete element
+1473458100424	Move compilation unit
+1473461153635	Delete element
+1473474536836	Delete element
+1473475080163	Encapsulate field 'vida'
+1473518592883	Move compilation unit
+1473518864043	Rename type 'Personagem'
+1473523402197	Rename type 'Fases'
+1473523418237	Rename type 'Home'
+1473523431868	Rename type 'Batalha'
+1473523446748	Rename type 'Recordes'
+1473526838166	Rename type 'JBatalha'
+1473526855286	Rename type 'JRecordes'
+1473529321571	Rename method 'getbolhas'
+1473531071146	Rename field 'VELOCIDADE'
+1473531097355	Rename field 'VELOCIDADE'
